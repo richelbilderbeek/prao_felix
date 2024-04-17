@@ -53,3 +53,28 @@ Start|What
 
 - GitHub workflows: [here](https://uppmax.github.io/programming_formalisms/misc/github_workflow/)
 - Python: [How to Think Like a Computer Scientist](https://openbookproject.net/thinkcs/python/english3e/index.html)
+
+## Reflection
+
+I think Felix was a great PRAO student.
+
+What was great:
+
+- Felix was great at working autonomously
+- Felix felt comfortable enough to sometimes disagree
+- We agreed on what needed to be done early
+- Time schedule was clear
+
+What could be improved:
+
+- Zero of the four points were finished. This was partly by design:
+  I wanted Felix to have the experience of incorrectly scheduling
+  a project, i.e. I let him code the Python code first.
+  I knew he should go from big to small, i.e. write the
+  run-time profiling code first. 
+  Maybe I should have pushed him more to do The Right Thing
+- The evaluation at the end was rushed. 
+  Next time, schedule 15 minutes and write this reflection together
+
+In summary, I would recommend Felix to do a PRAO at any other place:
+he did a good job!
