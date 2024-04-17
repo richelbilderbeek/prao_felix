@@ -64,6 +64,7 @@ What was great:
 - Felix felt comfortable enough to sometimes disagree
 - We agreed on what needed to be done early
 - Time schedule was clear
+- Felix delivered part of the code needed, [badCode.py](badCode.py)
 
 What could be improved:
 
