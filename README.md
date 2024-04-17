@@ -30,8 +30,9 @@ Pick one:
    Adapt text at https://uppmax.github.io/programming_formalisms/optimisation/runtime_speed_profiles/
  * [ ] Do the exercises at https://uppmax.github.io/programming_formalisms/optimisation/big_o/ ,
    add these to the course materials
- * [ ] Finish the Programming Formalisms example project 
-   at https://github.com/programming-formalisms/programming_formalisms_example_project
+ * [ ] If good at Python: finish the Programming Formalisms example project at https://github.com/programming-formalisms/programming_formalisms_example_project
+ * [ ] Convert some private notes to documentation on how to
+   transfer data to Swestore
 
 ## Schedule
 
@@ -51,3 +52,4 @@ Start|What
 ## Learning route
 
 - GitHub workflows: [here](https://uppmax.github.io/programming_formalisms/misc/github_workflow/)
+- Python: [How to Think Like a Computer Scientist](https://openbookproject.net/thinkcs/python/english3e/index.html)
